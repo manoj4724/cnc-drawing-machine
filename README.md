@@ -1,7 +1,0 @@
-# cnc-drawing-machine
-
-https://winder.github.io/ugs_website/download/
-
-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjY4M1hiWG5ZRUdKcU14c19tb2dEOHBjMjhBd3xBQ3Jtc0tsQ0JaMGJnWlpodkUwQWEzUUFmeDZtdzEtWkdLNGljMjJ0MFNFdXRlQV8wMWt3SlFOWG0xc1hSTGlkWjdDUWRYMGpuSGZSeEpHUWVWVUhlalBWZy11WlJjbjVReEZEdi1WTVRXWmxFaFJWMEdWcG5jWQ&q=https%3A%2F%2Finkscape.org%2Frelease%2Finkscape-0.92%2F%3Flatest%3D1&v=I4omT2L9aI8
-
-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1hRX0tadjEyTFF5NUxQTGNRejdpcVZoaEI0d3xBQ3Jtc0tuRVJuWllxdWtpcEs2T2YtaU1DSkVka2NQQkVpTDU4RmF2QURsbkJEeVVRVVZEeDRtdkdWNkxPTzBhYnEycFpSdV9TbGd2YWFhWVVXRVBSVGVwSHlVU0t2ZUs1eHlRTHgtUnEtdUVsZlViNWdnSUpucw&q=https%3A%2F%2Fprocessing.org%2Fdownload%2F&v=I4omT2L9aI8
